@@ -2,8 +2,10 @@
 
 Welcome to the repository for the Java code implementations and exercises from the book "Algorithms" by Robert Sedgewick and Kevin Wayne, both from Princeton University. This repository contains Java code examples, exercises, and solutions corresponding to the topics covered in the book.
 
-![Book Cover](images/![coverimage](https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/22d62c0a-9f5e-49de-af91-1e665163f9aa)
-)
+
+Book Cover 
+![coverimage](https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/b73df850-ab81-4be2-9049-c35d75f41283)
+
 
 
 ## Table of Contents
@@ -69,9 +71,10 @@ Please ensure that your contributions adhere to the coding conventions and stand
 
 This project is licensed under the [MIT License](LICENSE.md). Feel free to use the code in this repository for educational or commercial purposes, with proper attribution to the authors of the book "Algorithms" by Robert Sedgewick and Kevin Wayne.
 
-![Sample Page 1](images/<img width="651" alt="Screenshot 2024-03-14 at 23 57 55" src="https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/cc1dfdfb-952b-4e66-a8c6-fa6bbe259609">
-)
-![Sample Page 2](images/<img width="1265" alt="Screenshot 2024-03-14 at 23 59 15" src="https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/5b3dcd86-66e1-4518-891f-1a3390b94cf6">
-)
-![Sample Page 3](images/<img width="1265" alt="Screenshot 2024-03-15 at 00 01 33" src="https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/614ae000-e3e0-4137-97a4-ea97146b8f1d">
-)
+Page Sample -
+<img width="651" alt="Screenshot 2024-03-14 at 23 57 55" src="https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/cc1dfdfb-952b-4e66-a8c6-fa6bbe259609">
+
+<img width="1265" alt="Screenshot 2024-03-14 at 23 59 15" src="https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/5b3dcd86-66e1-4518-891f-1a3390b94cf6">
+
+<img width="1265" alt="Screenshot 2024-03-15 at 00 01 33" src="https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/614ae000-e3e0-4137-97a4-ea97146b8f1d">
+
