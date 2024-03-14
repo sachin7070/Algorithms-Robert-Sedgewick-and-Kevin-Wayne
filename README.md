@@ -3,7 +3,8 @@
 Welcome to the repository for the Java code implementations and exercises from the book "Algorithms" by Robert Sedgewick and Kevin Wayne, both from Princeton University. This repository contains Java code examples, exercises, and solutions corresponding to the topics covered in the book.
 
 
-Book Cover 
+## Book Cover 
+
 ![coverimage](https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/b73df850-ab81-4be2-9049-c35d75f41283)
 
 
