@@ -8,21 +8,6 @@ Welcome to the repository for the Java code implementations and exercises from t
 ![coverimage](https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/b73df850-ab81-4be2-9049-c35d75f41283)
 
 
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Contents](#contents)
-3. [Getting Started](#getting-started)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-
-## Authors
-
-- **Robert Sedgewick** - Professor of Computer Science at Princeton University.
-- **Kevin Wayne** - Senior Lecturer in Computer Science at Princeton University.
-
 ## Introduction
 
 "Algorithms" by Robert Sedgewick and Kevin Wayne is a comprehensive textbook that covers a wide range of algorithms and data structures. This repository serves as a companion to the book, providing Java implementations, exercises, and solutions to help readers better understand and apply the concepts discussed in the text.
@@ -34,6 +19,65 @@ The repository includes:
 - Java implementations of algorithms and data structures discussed in the book.
 - Exercises corresponding to each chapter.
 - Solutions to the exercises.
+
+## Table of Contents
+
+1. [Fundamentals](#fundamentals)
+2. [Sorting](#sorting)
+3. [Searching](#searching)
+4. [Graphs](#graphs)
+5. [Strings](#strings)
+6. [Context](#context)
+7. [Index](#index)
+8. [Algorithms Clients](#algorithms-clients)
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Contents](#contents)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+## Fundamentals
+
+- **1.1 Basic Programming Model**
+- **1.2 Data Abstraction**
+- **1.3 Bags, Queues, and Stacks**
+- **1.4 Analysis of Algorithms**
+- **1.5 Case Study: Union-Find**
+
+## Sorting
+
+- **2.1 Elementary Sorts**
+- **2.2 Mergesort**
+- **2.3 Quicksort**
+- **2.4 Priority Queues**
+- **2.5 Applications**
+
+## Searching
+
+- **3.1 Symbol Tables**
+- **3.2 Binary Search Trees**
+- **3.3 Balanced Search Trees**
+- **3.4 Hash Tables**
+- **3.5 Applications**
+
+## Graphs
+
+- **4.1 Undirected Graphs**
+- **4.2 Directed Graphs**
+- **4.3 Minimum Spanning Trees**
+- **4.4 Shortest Paths**
+
+## Strings
+
+- **5.1 String Sorts**
+- **5.2 Tries**
+- **5.3 Substring Search**
+- **5.4 Regular Expressions**
+- **5.5 Data Compression**
 
 ## Getting Started
 
