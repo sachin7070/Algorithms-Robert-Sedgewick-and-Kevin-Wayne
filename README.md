@@ -7,6 +7,15 @@ Welcome to the repository for the Java code implementations and exercises from t
 
 ![coverimage](https://github.com/sachin7070/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/assets/94534696/b73df850-ab81-4be2-9049-c35d75f41283)
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Contents](#contents)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+
 
 ## Introduction
 
@@ -28,14 +37,7 @@ The repository includes:
 4. [Graphs](#graphs)
 5. [Strings](#strings)
 
-## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Contents](#contents)
-3. [Getting Started](#getting-started)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Fundamentals
 
