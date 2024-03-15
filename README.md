@@ -27,9 +27,6 @@ The repository includes:
 3. [Searching](#searching)
 4. [Graphs](#graphs)
 5. [Strings](#strings)
-6. [Context](#context)
-7. [Index](#index)
-8. [Algorithms Clients](#algorithms-clients)
 
 ## Table of Contents
 
