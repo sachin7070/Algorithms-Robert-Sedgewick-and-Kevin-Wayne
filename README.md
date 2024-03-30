@@ -1,4 +1,4 @@
-# JAVA Algorithms By Robert Sedgewick and Kevin Wayne
+# Algorithms (Java Edition) by Robert Sedgewick and Kevin Wayne
 
 Welcome to the repository for the Java code implementations and exercises from the book "Algorithms" by Robert Sedgewick and Kevin Wayne, both from Princeton University. This repository contains Java code examples, exercises, and solutions corresponding to the topics covered in the book.
 
