@@ -13,8 +13,9 @@ Welcome to the repository for the Java code implementations and exercises from t
 2. [Contents](#contents)
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [Book Download](#Book-Download)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 
 ## Introduction
@@ -98,6 +99,13 @@ The Java code in this repository can be used for various purposes, including:
 - Solving exercises and challenges provided in the book.
 
 Feel free to explore the code, modify it according to your needs, and incorporate it into your projects. If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/Algorithms-Robert-Sedgewick-and-Kevin-Wayne/issues) or submit a pull request.
+
+## Book Download
+
+You can download the book "Algorithms" by Robert Sedgewick and Kevin Wayne from the following link:
+
+[Download PDF](https://drive.google.com/uc?export=download&id=1tf-6PiO1VSdRV4-N9_x0StcJKbjljmmM)
+
 
 ## Contributing
 
